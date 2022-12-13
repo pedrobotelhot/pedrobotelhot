@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pedro Botelho</h1>
-<h4 align="center">I'm from Rio de Janeiro - Brazil, but in 2019 I moved to Paraíba to start my studies in the technology area, studying Software development at the Federal University of Paraíba. Today I work as a fellow for a project called Ayty, where he is responsible for getting people into the job market. I've been working for over a year at Phoebus Tecnologia, where I spent one year developing in WMLScript (Similar to Javascript) and at the moment I switched to developing Android in Java.<a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">I'm from Rio de Janeiro - Brazil, but in 2019 I moved to Paraíba to start my studies in the technology area, studying Software development at the Federal University of Paraíba. Today I work as a fellow for a project called Ayty, where he is responsible for getting people into the job market. I've been working for over a year at Phoebus Tecnologia, where I spent one year developing in WMLScript (Similar to Javascript) and at the moment I switched to developing Android in Java.
 </div>
 <div align=center>
         <a href="https://www.linkedin.com/in/pedro-botelho-95629a187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
