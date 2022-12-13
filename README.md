@@ -9,7 +9,7 @@
 
 **Aplicações e Dados**
 
-  ![Javascript]([https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
+  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **Utilidades**
