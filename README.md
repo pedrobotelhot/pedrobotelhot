@@ -1,6 +1,12 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pedro Botelho</h1>
+<h4 align="center">I'm from Rio de Janeiro - Brazil, but in 2019 I moved to Paraíba to start my studies in the technology area, studying Software development at the Federal University of Paraíba. Today I work as a fellow for a project called Ayty, where he is responsible for getting people into the job market. I've been working for over a year at Phoebus Tecnologia, where I spent one year developing in WMLScript (Similar to Javascript) and at the moment I switched to developing Android in Java.<a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+</div>
+<div align=center>
+        <a href="https://www.linkedin.com/in/pedro-botelho-95629a187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/pedroboleto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+ 
+ 
 </div>
 
 <div align="center">
@@ -11,14 +17,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  My name is Pedro Botelho and I'm from Rio de Janeiro - Brazil, but in 2019 I moved to Paraíba to start my studies in the technology area, studying Software development at the Federal University of Paraíba. Today I work as a fellow for a project called Ayty, where he is responsible for getting people into the job market. I've been working for over a year at Phoebus Tecnologia, where I spent one year developing in WMLScript (Similar to Javascript) and at the moment I switched to developing Android in Java.
-</p>
-
 <p align="left">
  <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Languages**
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,7 +28,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-**Utilidades**
+**Utilities**
 
   ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -35,7 +37,7 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub]([https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -50,7 +52,7 @@
 
 <p align="left">
   
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ About my account GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrobotelhot&show_icons=true)
   
 </p>
