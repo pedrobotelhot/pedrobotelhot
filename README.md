@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
- <h3> :rocket: &nbsp;Minhas Skills </h3>
+ <h3> :rocket: &nbsp;My Skills </h3>
 
 **Languages**
 
